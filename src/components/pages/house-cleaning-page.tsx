@@ -147,7 +147,7 @@ const HouseCleaningHero = () => {
               size="lg"
               className="bg-blue-600 hover:bg-blue-700 text-white shadow-lg"
             >
-              (587) 664-4443
+              (438)223-2322
             </Button>
             <Button
               onClick={() => scrollToSection("details")}
@@ -155,7 +155,7 @@ const HouseCleaningHero = () => {
               variant="outline"
               className="bg-white/10 backdrop-blur-sm border border-white/30 text-white hover:bg-white/20"
             >
-              Email us
+             kingdomcleen@gmail.com
             </Button>
           </div>
 
